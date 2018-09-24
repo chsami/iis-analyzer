@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  iisApiUrl: 'https://localhost:44354/'
+  iisApiUrl: 'http://iislogger.azurewebsites.net/'
 };
 
 /*
